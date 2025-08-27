@@ -5,7 +5,7 @@ It replicates the design and layout of Amazon’s homepage with a responsive UI.
 
 ---
 
-## ✨ Features
+##  Features
 -  Header with logo, search bar, and navigation menu  
 -  Product showcase sections  
 -  Category sections with images  
@@ -13,14 +13,14 @@ It replicates the design and layout of Amazon’s homepage with a responsive UI.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **HTML5** – Structure of the webpage  
 - **CSS3** – Styling and layout  
 - *(No JavaScript or backend used)*  
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/amazon-clone.git
@@ -28,4 +28,5 @@ It replicates the design and layout of Amazon’s homepage with a responsive UI.
 2. Open the project folder.
 4. Double-click index.html
 
-or simple do
+Click this link to see it directly
+   https://jawaria-coder.github.io/Amazon-Clone/Amazon-Clone/
